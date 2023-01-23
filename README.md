@@ -55,8 +55,10 @@ I've generated three files which are exploration file, slide deck and README.md 
 
 
 <hr>
-Below is the part of README.md submitted in this project
+Below is the part of README.md submitted for this project
+
 # (Go Bike Data Set)
+
 ## by (Tae Singhanart)
 
 
